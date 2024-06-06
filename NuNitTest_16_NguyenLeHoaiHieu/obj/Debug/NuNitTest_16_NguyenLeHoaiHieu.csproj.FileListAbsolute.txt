@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\NuNitTest_16_NguyenLeHoaiHieu\NuNitTest_16_NguyenLeHoaiHieu\bin\Debug\NuNitTest_16_NguyenLeHoaiHieu.exe.config
+C:\Users\ASUS\source\repos\NuNitTest_16_NguyenLeHoaiHieu\NuNitTest_16_NguyenLeHoaiHieu\bin\Debug\NuNitTest_16_NguyenLeHoaiHieu.exe
+C:\Users\ASUS\source\repos\NuNitTest_16_NguyenLeHoaiHieu\NuNitTest_16_NguyenLeHoaiHieu\bin\Debug\NuNitTest_16_NguyenLeHoaiHieu.pdb
+C:\Users\ASUS\source\repos\NuNitTest_16_NguyenLeHoaiHieu\NuNitTest_16_NguyenLeHoaiHieu\obj\Debug\NuNitTest_16_NguyenLeHoaiHieu.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\NuNitTest_16_NguyenLeHoaiHieu\NuNitTest_16_NguyenLeHoaiHieu\obj\Debug\NuNitTest_16_NguyenLeHoaiHieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\NuNitTest_16_NguyenLeHoaiHieu\NuNitTest_16_NguyenLeHoaiHieu\obj\Debug\NuNitTest_16_NguyenLeHoaiHieu.Form1.resources
+C:\Users\ASUS\source\repos\NuNitTest_16_NguyenLeHoaiHieu\NuNitTest_16_NguyenLeHoaiHieu\obj\Debug\NuNitTest_16_NguyenLeHoaiHieu.Properties.Resources.resources
+C:\Users\ASUS\source\repos\NuNitTest_16_NguyenLeHoaiHieu\NuNitTest_16_NguyenLeHoaiHieu\obj\Debug\NuNitTest_16_NguyenLeHoaiHieu.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\NuNitTest_16_NguyenLeHoaiHieu\NuNitTest_16_NguyenLeHoaiHieu\obj\Debug\NuNitTest_16_NguyenLeHoaiHieu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NuNitTest_16_NguyenLeHoaiHieu\NuNitTest_16_NguyenLeHoaiHieu\obj\Debug\NuNitTest_16_NguyenLeHoaiHieu.exe
+C:\Users\ASUS\source\repos\NuNitTest_16_NguyenLeHoaiHieu\NuNitTest_16_NguyenLeHoaiHieu\obj\Debug\NuNitTest_16_NguyenLeHoaiHieu.pdb
